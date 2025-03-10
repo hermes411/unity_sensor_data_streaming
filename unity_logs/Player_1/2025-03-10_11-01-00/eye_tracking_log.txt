@@ -1,0 +1,6 @@
+2025-03-10 11:01:00.827, FPS = 58.9171: Left Eye Position - X: -0.03, Y: 0, Z: 0, Gaze: (0.00, 0.00, 1.00) / Right Eye Position - X: 0.03, Y: 0, Z: 0, Gaze: (0.00, 0.00, 1.00)
+2025-03-10 11:01:01.828, FPS = 68.64276: Left Eye Position - X: -0.03, Y: 0, Z: 0, Gaze: (0.00, 0.00, 1.00) / Right Eye Position - X: 0.03, Y: 0, Z: 0, Gaze: (0.00, 0.00, 1.00)
+2025-03-10 11:01:02.842, FPS = 72.17756: Left Eye Position - X: -0.03, Y: 0, Z: 0, Gaze: (0.00, 0.00, 1.00) / Right Eye Position - X: 0.03, Y: 0, Z: 0, Gaze: (0.00, 0.00, 1.00)
+2025-03-10 11:01:03.859, FPS = 48.29712: Left Eye Position - X: -0.03, Y: 0, Z: 0, Gaze: (0.00, 0.00, 1.00) / Right Eye Position - X: 0.03, Y: 0, Z: 0, Gaze: (0.00, 0.00, 1.00)
+2025-03-10 11:01:04.855, FPS = 71.84283: Left Eye Position - X: -0.03, Y: 0, Z: 0, Gaze: (0.00, 0.00, 1.00) / Right Eye Position - X: 0.03, Y: 0, Z: 0, Gaze: (0.00, 0.00, 1.00)
+2025-03-10 11:01:05.856, FPS = 71.89879: Left Eye Position - X: -0.03, Y: 0, Z: 0, Gaze: (0.00, 0.00, 1.00) / Right Eye Position - X: 0.03, Y: 0, Z: 0, Gaze: (0.00, 0.00, 1.00)

@@ -1,0 +1,6 @@
+2025-03-10 11:01:00.827, FPS = 58.9171: Left Controller Position - X: 0, Y: 0, Z: 0, Rotation: (0.00, 0.00, 0.00) / Right Controller Position - X: 0, Y: 0, Z: 0, Rotation: (0.00, 0.00, 0.00)
+2025-03-10 11:01:01.828, FPS = 68.64276: Left Controller Position - X: 0, Y: 0, Z: 0, Rotation: (0.00, 0.00, 0.00) / Right Controller Position - X: 0, Y: 0, Z: 0, Rotation: (0.00, 0.00, 0.00)
+2025-03-10 11:01:02.842, FPS = 72.17756: Left Controller Position - X: 0, Y: 0, Z: 0, Rotation: (0.00, 0.00, 0.00) / Right Controller Position - X: 0, Y: 0, Z: 0, Rotation: (0.00, 0.00, 0.00)
+2025-03-10 11:01:03.859, FPS = 48.29712: Left Controller Position - X: 0, Y: 0, Z: 0, Rotation: (0.00, 0.00, 0.00) / Right Controller Position - X: 0, Y: 0, Z: 0, Rotation: (0.00, 0.00, 0.00)
+2025-03-10 11:01:04.855, FPS = 71.84283: Left Controller Position - X: 0, Y: 0, Z: 0, Rotation: (0.00, 0.00, 0.00) / Right Controller Position - X: 0, Y: 0, Z: 0, Rotation: (0.00, 0.00, 0.00)
+2025-03-10 11:01:05.856, FPS = 71.89879: Left Controller Position - X: 0, Y: 0, Z: 0, Rotation: (0.00, 0.00, 0.00) / Right Controller Position - X: 0, Y: 0, Z: 0, Rotation: (0.00, 0.00, 0.00)

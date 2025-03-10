@@ -1,0 +1,6 @@
+2025-03-07 17:27:03.545, FPS = 71.75578: Left Controller Position - X: 0, Y: 0, Z: 0, Rotation: (0.00, 0.00, 0.00) / Right Controller Position - X: 0.1099312, Y: -0.3500985, Z: 0.457357, Rotation: (6.51, 21.13, 335.14)
+2025-03-07 17:27:13.555, FPS = 71.69802: Left Controller Position - X: 0, Y: 0, Z: 0, Rotation: (0.00, 0.00, 0.00) / Right Controller Position - X: 0.320913, Y: -0.3588101, Z: 0.4926855, Rotation: (82.84, 337.37, 240.30)
+2025-03-07 17:27:23.562, FPS = 71.85093: Left Controller Position - X: 0, Y: 0, Z: 0, Rotation: (0.00, 0.00, 0.00) / Right Controller Position - X: 0.3147712, Y: -0.3581144, Z: 0.4861113, Rotation: (81.47, 347.32, 250.14)
+2025-03-07 17:27:33.571, FPS = 71.70071: Left Controller Position - X: 0, Y: 0, Z: 0, Rotation: (0.00, 0.00, 0.00) / Right Controller Position - X: 0.3086655, Y: -0.3564664, Z: 0.4804474, Rotation: (81.14, 1.29, 262.78)
+2025-03-07 17:27:43.579, FPS = 71.94157: Left Controller Position - X: 0, Y: 0, Z: 0, Rotation: (0.00, 0.00, 0.00) / Right Controller Position - X: 0.3097455, Y: -0.3549612, Z: 0.4778469, Rotation: (81.10, 351.18, 254.52)
+2025-03-07 17:27:53.589, FPS = 71.99805: Left Controller Position - X: 0, Y: 0, Z: 0, Rotation: (0.00, 0.00, 0.00) / Right Controller Position - X: 0.311867, Y: -0.3554648, Z: 0.4803525, Rotation: (80.66, 338.48, 242.54)
