@@ -29,6 +29,8 @@ public class SensorDataStreamer : MonoBehaviour
     public Transform headsetTransform;  // Assign the headset (camera) transform here
     private NetworkRunner networkRunner;  // Fusion's NetworkRunner
 
+    private bool isStreamingStarted = false;  // Ensure logging only starts after connection
+
     // Hand tracking objects
     private OVRHand leftHand;
     private OVRSkeleton leftHandSkeleton;
@@ -96,8 +98,14 @@ public class SensorDataStreamer : MonoBehaviour
     {
         deltaTime += (Time.deltaTime - deltaTime) * 0.1f; // Smooth out the FPS value
 
+        // Start streaming once tcp client has connected
+        if (tcpClient != null && tcpClient.Connected && !isStreamingStarted)
+        {
+            isStreamingStarted = true;
+        }
+
         // If a client is connected, stream sensor data
-        if (tcpClient != null && tcpClient.Connected)
+        if (tcpClient != null && tcpClient.Connected && isStreamingStarted)
         {
             float time = Time.time;
             fps = 1.0f / deltaTime;
@@ -140,10 +148,6 @@ public class SensorDataStreamer : MonoBehaviour
                 // Wait for a client to connect
                 tcpClient = tcpListener.AcceptTcpClient();
                 Debug.Log("Client connected!");
-
-                // Set the initial sample and stream time
-                nextSampleTime = Time.time + samplingFrequency;
-                nextStreamTime = Time.time + communicationFrequency;
 
 
                 // Continuously send data to the client
