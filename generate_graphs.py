@@ -68,8 +68,11 @@ def generate_battery_graphs(title, ylabel, xlabel, list_of_dir, savename):
                             line = line[line.find('Battery Status - ') + 17 :]
                             battery_status = line[:line.find('%')]
                             y.append(int(battery_status))
-                        
-                    x = range(0, len(y) * sampling_frequency, sampling_frequency)
+                    
+
+                    # create x values
+                    x = range(sampling_frequency, (len(y) + 1) * sampling_frequency, sampling_frequency)
+
                     ax.plot(x, y, label = f'samp freq = {sampling_frequency},\n comm freq = {communication_frequency}')
 
     # set titles
